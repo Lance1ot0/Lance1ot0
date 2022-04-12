@@ -1,5 +1,5 @@
 ### Hi there, welcome to my GitHub profile 👋
-I'm Lancelot BOYER, frontend developer and student at HETIC.
+I'm Lancelot BOYER, frontend developer and a first year student at HETIC.
 <!--
 **Lance1ot0/Lance1ot0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
